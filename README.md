@@ -157,6 +157,4 @@ It is a risk alert system, not a crime detection or surveillance tool.
 - TensorFlow: [TensorFlow Documentation](https://www.tensorflow.org/)
 - OpenCV: [OpenCV Documentation](https://opencv.org/)
 
-## Contact
 
-For any questions or suggestions keep it to  yourself.
